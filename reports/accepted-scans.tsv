@@ -1,0 +1,6 @@
+kit_code	scan_id	action	event_minute	operator
+AK-01	SCAN-0001	OUT	12	Imani
+AK-01	SCAN-0003	BACK	45	Imani
+AK-02	SCAN-0004	BACK	9	Sora
+AK-03	SCAN-0007	BACK	75	Mara
+AK-03	SCAN-0008	OUT	88	Mara
