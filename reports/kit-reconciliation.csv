@@ -1,0 +1,5 @@
+kit_code,kit_name,starting_state,expected_state,accepted_scans,ignored_scans,final_state,status
+AK-01,Alpine radio,SHELF,SHELF,2,1,SHELF,CLEAR
+AK-02,Beacon tent,DEPLOYED,SHELF,1,1,SHELF,CLEAR
+AK-03,Comet medical pack,DEPLOYED,DEPLOYED,2,1,DEPLOYED,CLEAR
+AK-04,Delta survey drone,SHELF,DEPLOYED,0,1,SHELF,INVESTIGATE
